@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="56386a19-226b-4bb0-a9f9-7aa5ff09ff8d" name="uj" url="http://spk-ssh.if.uj.edu.pl">
+        <fileTransfer host="spk-ssh.if.uj.edu.pl" port="22" rootFolder="/home/lepich_1146600/java" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
